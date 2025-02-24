@@ -21,7 +21,7 @@
             backdrop-filter: blur(20px);
         }
         body{
-            background-image: url(https://th.bing.com/th/id/R.e154ae0ecf65b4e8cb4aa72761834b13?rik=53xMXoOkYZqaGA&pid=ImgRaw&r=0);
+            background-image: url(https://th.bing.com/th/id/R.fe26d3c4a72e919e161b497568bd7696?rik=NXsyTNxZ7Hynag&pid=ImgRaw&r=0);
             background-size: cover;
             background-position: center; 
             background-repeat: no-repeat; 
